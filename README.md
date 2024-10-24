@@ -6,3 +6,5 @@ Even with online docs, etc.  I'm not 100% sure how transferring repos into a org
 Ok, I transferred this repo from my retoomey personal github to retoomeynoaa which is the SSO/idP account.  So in theory, now I can transfer it into the NSSL organization.  Wish me luck.  What will it do?  Hopefully I get an email and everything is happy.  Yay.
 
 The issue I ran into is that I can't add retoomey to the organization unless I'm added to the idP that my enterprise is using...however my retoomeynoaa is setup for this.  So doing a double transfer might be the trick.  Going to try now.
+
+Ok so that actually seemed to work.  We had to transfer twice to get around it, but it worked.  I should probably make a tutorial in the MRMS public repo before deleting this repository.
